@@ -4,11 +4,8 @@
 }
 
 li, a{
-  position: relative;
-  color: white;
   text-transform: uppercase;
   display: block;
-  padding: 0 10px;
 }
 h1, h2, h3{
   text-align: center;
@@ -78,6 +75,7 @@ img{
   border: 1px solid #e7e7e7;
   width: 100%;
 }
+
 .score{
   font-size: 60px;
   text-align: center;
